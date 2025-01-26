@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Wenyu Fu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Zhejiang University"
   uri              : # URL
