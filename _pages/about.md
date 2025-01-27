@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
 Welcome! I’m currently a third-year undergraduate student at the [College of Animal Sciences](http://www.cas.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
 
