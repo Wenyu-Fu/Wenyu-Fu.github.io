@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Animal Sciences](http://www.cas.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn).
+# About Me
 
-I am very fortunate to be advised by [Prof. Zhen Wang](https://person.zju.edu.cn/0020039) from [College of Animal Sciences](http://www.cas.zju.edu.cn/), Zhejiang University.
+Welcome! I’m currently a third-year undergraduate student at the [College of Animal Sciences](http://www.cas.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
+
+I am incredibly fortunate to be advised by [Prof. Zhen Wang](https://person.zju.edu.cn/0020039) at the [College of Animal Sciences](http://www.cas.zju.edu.cn/), Zhejiang University. Under his mentorship, I am diving deep into exciting research in animal science and biotechnology.
 
