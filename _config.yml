@@ -218,7 +218,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  github:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -264,10 +264,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _github
   - scope:
       path: ""
-      type: portfolio
+      type: github
     values:
       layout: single
       author_profile: true
