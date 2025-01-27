@@ -15,7 +15,7 @@ main:
   #   url: /teaching/    
     
   - title: "Github"
-    url: /_github/
+    url: /github/
         
   - title: "Blog Posts"
     url: /year-archive/
