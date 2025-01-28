@@ -56,7 +56,12 @@ Check the **Blog Posts** section regularly to stay up-to-date with my latest aca
 
 ## Contact Information
 
-If you wish to get in touch with me, you can reach me through the contact form or by email. I am always happy to discuss my research, collaborate, or answer any questions you may have.
+Feel free to get in touch with me through the following contact details:
+
+- **Email**: [786967870qq@gmail.com](mailto:786967870qq@gmail.com)
+- **Phone**: +86 188 5799 3609
+
+I am happy to discuss my research, collaborate, or answer any questions you may have.
 
 ---
 
