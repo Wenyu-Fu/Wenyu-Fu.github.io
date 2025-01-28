@@ -14,8 +14,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Github"
-    url: /github/
+  # - title: "Github"
+  #   url: /github/
         
   - title: "Blog Posts"
     url: /year-archive/
