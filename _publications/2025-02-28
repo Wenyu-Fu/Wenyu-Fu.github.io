@@ -8,7 +8,6 @@ excerpt: >
 date: 2025-02-28
 venue: "<a href='https://www.frontiersin.org/journals/immunology' target='_blank'>Frontiers in Immunology</a>"
 paper_url: "files/fimmu-sc-three-pigs.pdf"
----
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <h3><a href='https://doi.org/10.3389/fimmu.2025.1530214' target='_blank'>Pig Jejunal Single-Cell RNA Landscapes Revealing Breed-Specific Immunology Differentiation at Various Domestication Stages</a></h3>
@@ -22,3 +21,4 @@ paper_url: "files/fimmu-sc-three-pigs.pdf"
     <img src="images/fimmu-abstract.jpg" alt="Frontiers Cover" style="width: 300px; height: auto; border-radius: 10px;">
   </div>
 </div>
+---
