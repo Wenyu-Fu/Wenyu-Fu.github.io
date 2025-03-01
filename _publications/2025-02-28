@@ -7,17 +7,5 @@ excerpt: >
 date: 2025-02-28
 venue: "<a href='https://www.frontiersin.org/journals/immunology' target='_blank'>Frontiers in Immunology</a>"
 paper_url: "files/fimmu-sc-three-pigs.pdf"
+teaser: "images/fimmu-abstract.jpg"
 ---
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h3><a href='https://doi.org/10.3389/fimmu.2025.1530214' target='_blank'>Pig Jejunal Single-Cell RNA Landscapes Revealing Breed-Specific Immunology Differentiation at Various Domestication Stages</a></h3>
-    <p>
-      Our findings provide valuable single-cell insights into the cellular heterogeneity and immune function evolution in the jejunum during pig at various domestication stages.
-    </p>
-    <p><a href="files/fimmu-sc-three-pigs.pdf">Read Full Paper</a></p>
-    <p><a href="https://doi.org/10.3389/fimmu.2025.1530214">DOI Link</a></p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="images/fimmu-abstract.jpg" alt="Frontiers Cover" style="width: 300px; height: auto; border-radius: 10px;">
-  </div>
-</div>
