@@ -1,27 +1,14 @@
 ---
-title: 'Blog Post number 1'
-date: 2025-01-27
-permalink: /posts/2025/01/blog-post-1/
-tags:
-  - GitHub
+title: "Paper Title Number 1"
+collection: publications
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-# Pig Jejunal Single-Cell RNA Landscapes
-
-![Project Banner](https://Wenyu-Fu.github.io/images/sc-3pigs-git.png)
-
-## Project Overview
-
-This project aims to uncover the gene expression landscape of the pig jejunum through single-cell RNA sequencing. By analyzing and visualizing the data, we aim to explore the diversity of cell types and their biological functions within the jejunal tissue. This research provides insights into gut immunity and metabolism, contributing to a deeper understanding of the role of the intestine in health and disease.
-
-Using single-cell RNA-seq data, we have created a comprehensive map of the cell populations within the jejunum, providing valuable information for further research into gut-related disorders and diseases in pigs.
-
-## Key Features
-
-- **Data Source**: Single-cell RNA sequencing data from the pig jejunum.
-- **Analysis Tools**: Utilizes cutting-edge single-cell RNA analysis tools like Seurat and Scanpy.
-- **Visualization**: UMAP, t-SNE, and other methods are used to visualize the distribution of cell populations.
-- **Multimodal Integration**: Integrates gene expression data with other biological markers to enhance understanding of cellular diversity.
-
-You can access the full project on GitHub through the following link:
-[**Pig Jejunal Single-Cell RNA Landscapes**](https://github.com/Wenyu-Fu/Pig-Jejunal-Single-Cell-RNA-Landscapes)NONE
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
