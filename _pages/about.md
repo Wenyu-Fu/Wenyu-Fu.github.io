@@ -10,10 +10,10 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 3em;">
   <h1 style="color: #2c3e50; font-size: 2.5em; margin-bottom: 0.5em; font-weight: 400;">Wenyu Fu</h1>
   <p style="font-size: 1.2em; color: #34495e; margin-bottom: 1.5em;">
-    Undergraduate Student • Computational Biology • Animal Science
+    Undergraduate Student • Statistics • Bioinformatics • Animal Science
   </p>
   <p style="font-size: 1.1em; color: #7f8c8d; max-width: 600px; margin: 0 auto;">
-    Third-year undergraduate at Zhejiang University, exploring the intersection of biology and computational methods
+    Third-year undergraduate at Zhejiang University, applying statistical methods and bioinformatics to biological research
   </p>
 </div>
 
@@ -37,19 +37,19 @@ redirect_from:
   <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
     <h3 style="color: #2c3e50; margin-top: 0;">May 2023</h3>
     <h4 style="color: #34495e; margin: 0.5em 0;">Joined Research Lab</h4>
-    <p style="color: #7f8c8d; line-height: 1.6;">Began working under Prof. Zhen Wang's mentorship, focusing on computational biology and single-cell analysis.</p>
+    <p style="color: #7f8c8d; line-height: 1.6;">Began working under Prof. Zhen Wang's mentorship, focusing on statistical analysis and bioinformatics applications in single-cell research.</p>
   </div>
   
   <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
     <h3 style="color: #2c3e50; margin-top: 0;">Present</h3>
     <h4 style="color: #34495e; margin: 0.5em 0;">Active Research</h4>
-    <p style="color: #7f8c8d; line-height: 1.6;">Pursuing research in computational biology with focus on single-cell genomics and animal health applications.</p>
+    <p style="color: #7f8c8d; line-height: 1.6;">Developing machine learning methods to correlate pig DNA sequences with RNA expression patterns, bridging genomics and transcriptomics through computational approaches.</p>
   </div>
 </div>
 
 <div style="background-color: #ecf0f1; border-left: 4px solid #3498db; padding: 1.5em; margin: 2em 0;">
   <p style="color: #2c3e50; margin: 0; font-style: italic; line-height: 1.6;">
-    "From the very beginning, I was drawn to the fascinating intersection of biology, technology, and data science—a fusion that sparked my deep interest in understanding complex biological systems through computational approaches."
+    "From the very beginning, I was drawn to the fascinating intersection of biology, statistics, and data science—a fusion that sparked my deep interest in understanding complex biological systems through statistical modeling and bioinformatics approaches."
   </p>
 </div>
 
@@ -73,7 +73,7 @@ redirect_from:
       Under Prof. Wang's mentorship, I have been exposed to cutting-edge research in <strong>animal health</strong>, <strong>molecular biology</strong>, and <strong>biotechnology</strong>.
     </p>
     <p style="color: #2c3e50; line-height: 1.7; margin: 0;">
-      His guidance has been invaluable in shaping my research direction and providing opportunities to apply computational methods to real-world biological challenges.
+      His guidance has been invaluable in shaping my research direction and providing opportunities to apply statistical methods and bioinformatics tools to real-world biological challenges.
     </p>
   </div>
 </div>
@@ -85,28 +85,28 @@ redirect_from:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2em; margin: 2em 0;">
   
   <div style="background-color: #f8f9fa; border: 1px solid #dee2e6; padding: 2em;">
-    <h3 style="color: #2c3e50; margin-top: 0; border-bottom: 2px solid #3498db; padding-bottom: 0.5em;">Bioinformatics</h3>
+    <h3 style="color: #2c3e50; margin-top: 0; border-bottom: 2px solid #3498db; padding-bottom: 0.5em;">Statistics</h3>
     <p style="color: #7f8c8d; line-height: 1.6; margin-bottom: 1em;">
-      Fascinated by computational methods to analyze biological data, focusing on:
+      Applying statistical methods to biological data analysis, focusing on:
     </p>
     <ul style="color: #2c3e50; line-height: 1.6;">
-      <li>Single-cell genomics</li>
-      <li>Microbiome analysis</li>
-      <li>Animal health insights</li>
-      <li>Disease mechanisms</li>
+      <li>Statistical modeling for genomic data</li>
+      <li>Multivariate analysis techniques</li>
+      <li>Hypothesis testing and experimental design</li>
+      <li>Data visualization and interpretation</li>
     </ul>
   </div>
   
   <div style="background-color: #f8f9fa; border: 1px solid #dee2e6; padding: 2em;">
-    <h3 style="color: #2c3e50; margin-top: 0; border-bottom: 2px solid #3498db; padding-bottom: 0.5em;">Machine Learning</h3>
+    <h3 style="color: #2c3e50; margin-top: 0; border-bottom: 2px solid #3498db; padding-bottom: 0.5em;">Bioinformatics</h3>
     <p style="color: #7f8c8d; line-height: 1.6; margin-bottom: 1em;">
-      Excited about ML potential in biological research, including:
+      Utilizing bioinformatics tools and methods for biological research, including:
     </p>
     <ul style="color: #2c3e50; line-height: 1.6;">
-      <li>Large-scale genomic analysis</li>
-      <li>Pattern recognition</li>
-      <li>Predictive modeling</li>
-      <li>Biotechnological applications</li>
+      <li>Single-cell genomics analysis</li>
+      <li>Sequence analysis and annotation</li>
+      <li>Microbiome data processing</li>
+      <li>Pathway and functional analysis</li>
     </ul>
   </div>
 </div>
@@ -124,7 +124,7 @@ redirect_from:
 
 <div style="background-color: #f8f9fa; border: 1px solid #dee2e6; padding: 2em; margin: 2em 0;">
   <p style="color: #2c3e50; text-align: center; margin-bottom: 2em; line-height: 1.6;">
-    I'm always interested in discussing research, exploring collaboration opportunities, and engaging with fellow researchers in computational biology.
+    I'm always interested in discussing research, exploring collaboration opportunities, and engaging with fellow researchers in statistics and bioinformatics.
   </p>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2em;">
@@ -144,9 +144,9 @@ redirect_from:
   <div style="border-top: 1px solid #dee2e6; margin-top: 2em; padding-top: 1.5em;">
     <h4 style="color: #2c3e50; margin-bottom: 1em;">Collaboration Interests</h4>
     <ul style="color: #7f8c8d; line-height: 1.6;">
-      <li>Research projects in single-cell analysis and computational biology</li>
+      <li>Research projects in statistical analysis and bioinformatics applications</li>
       <li>Academic exchanges and conference presentations</li>
-      <li>Learning opportunities in workshops and seminars</li>
+      <li>Learning opportunities in statistics and bioinformatics workshops</li>
     </ul>
   </div>
 </div>
