@@ -10,7 +10,9 @@ redirect_from:
 
 # Welcome!
 
-I’m currently a **third-year undergraduate student** at the [College of Animal Sciences](http://www.cas.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/), one of the leading universities in China. 
+I'm currently a **third-year undergraduate student** at the [College of Animal Sciences](http://www.cas.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/), one of the leading universities in China. 
+
+📄 **[Download my CV]({{ site.baseurl }}/images/CV.pdf){: .btn .btn--primary .btn--large}** 
 
 ---
 
