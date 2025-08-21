@@ -65,6 +65,7 @@ redirect_from:
   <h3 style="color: #2c3e50; text-align: center; margin-bottom: 0.5em;">Prof. Zhen Wang</h3>
   <p style="color: #7f8c8d; text-align: center; margin-bottom: 1em;">
     Expert in Animal Science & Biotechnology<br/>
+    Omics and Big Data Lab<br/>
     <a href="https://person.zju.edu.cn/0020039" target="_blank" style="color: #3498db;">Zhejiang University Profile</a>
   </p>
   
