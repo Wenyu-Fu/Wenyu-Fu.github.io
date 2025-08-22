@@ -41,6 +41,12 @@ redirect_from:
   </div>
   
   <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
+    <h3 style="color: #2c3e50; margin-top: 0;">July 2025</h3>
+    <h4 style="color: #34495e; margin: 0.5em 0;">International Study Program</h4>
+    <p style="color: #7f8c8d; line-height: 1.6;">Completed "Data Science with Python and Tableau" at the 2025 NUS Summer Program, National University of Singapore, achieving an A level grade.</p>
+  </div>
+  
+  <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
     <h3 style="color: #2c3e50; margin-top: 0;">Present</h3>
     <h4 style="color: #34495e; margin: 0.5em 0;">Active Research</h4>
     <p style="color: #7f8c8d; line-height: 1.6;">Developing machine learning methods to correlate pig DNA sequences with RNA expression patterns, bridging genomics and transcriptomics through computational approaches.</p>
@@ -71,7 +77,7 @@ redirect_from:
   
   <div style="border-left: 4px solid #3498db; padding-left: 1.5em;">
     <p style="color: #2c3e50; line-height: 1.7; margin-bottom: 1em;">
-      Under Prof. Wang's mentorship, I have been exposed to cutting-edge research in <strong>animal health</strong>, <strong>molecular biology</strong>, and <strong>biotechnology</strong>.
+      Under Prof. Wang's mentorship, I have been exposed to cutting-edge research in <strong>bioinformatics</strong>, <strong>omics technologies</strong>, and <strong>big data analytics</strong>.
     </p>
     <p style="color: #2c3e50; line-height: 1.7; margin: 0;">
       His guidance has been invaluable in shaping my research direction and providing opportunities to apply statistical methods and bioinformatics tools to real-world biological challenges.
@@ -115,7 +121,7 @@ redirect_from:
 <div style="background-color: #e8f4fd; border-left: 4px solid #3498db; padding: 1.5em; margin: 2em 0;">
   <h3 style="color: #2c3e50; margin-top: 0;">Research Vision</h3>
   <p style="color: #2c3e50; line-height: 1.7; margin: 0;">
-    Through these interdisciplinary fields, I aspire to contribute to advancements in <strong>biotechnology</strong>, <strong>precision medicine</strong>, and <strong>sustainable animal science</strong>, with a particular focus on how data-driven insights can improve animal health and welfare.
+    Through these interdisciplinary fields, I aspire to advance <strong>statistical methodologies</strong> and <strong>computational approaches</strong> for multi-omics data integration, contributing to <strong>genomic research</strong> and <strong>systems biology</strong>, while bridging the gap between theoretical innovation and empirical discovery.
   </p>
 </div>
 
