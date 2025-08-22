@@ -42,7 +42,7 @@ redirect_from:
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5em; margin-top: 1.5em;">
     <div style="background: white; padding: 1.5em; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <h4 style="color: #e74c3c; margin-top: 0;">Journal Articles</h4>
-      <p style="color: #2c3e50; margin-bottom: 0;">Peer-reviewed papers published in academic journals, showcasing my research contributions to computational biology and animal science.</p>
+      <p style="color: #2c3e50; margin-bottom: 0;">Peer-reviewed papers published in academic journals, showcasing my research contributions to data science, bioinformatics and animal science.</p>
     </div>
     
     <div style="background: white; padding: 1.5em; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -75,7 +75,7 @@ redirect_from:
   <h3 style="color: #2c3e50; margin-top: 0;">Research Insights & Reflections</h3>
   
   <p style="color: #2c3e50; font-size: 1.1em; margin-bottom: 1.5em;">
-    The blog section provides a more personal and accessible look at my research journey, offering insights into ongoing projects, academic experiences, and thoughts on the latest developments in computational biology.
+    The blog section provides a more personal and accessible look at my research journey, offering insights into ongoing projects, academic experiences, and thoughts on the latest developments in data science and bioinformatics.
   </p>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5em;">
@@ -91,7 +91,7 @@ redirect_from:
     
     <div style="background: white; padding: 1.5em; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <h4 style="color: #27ae60; margin-top: 0;">Field Discussions</h4>
-      <p style="color: #2c3e50;">Analysis of trends, challenges, and innovations in computational biology, bioinformatics, and animal science research.</p>
+      <p style="color: #2c3e50;">Analysis of trends, challenges, and innovations in data science, bioinformatics, and animal science research.</p>
     </div>
   </div>
 </div>
@@ -103,7 +103,7 @@ redirect_from:
 <div style="text-align: center; background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 2.5em; border-radius: 15px; margin: 2em 0;">
   <h3 style="color: #2c3e50; margin-top: 0;">Let's Connect!</h3>
   <p style="color: #2c3e50; font-size: 1.1em; margin-bottom: 1.5em;">
-    I'm always excited to discuss research, explore collaboration opportunities, and engage with fellow researchers and enthusiasts in computational biology.
+    I'm always excited to discuss research, explore collaboration opportunities, and engage with fellow researchers and enthusiasts in data science and bioinformatics.
   </p>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1em; margin-top: 1.5em;">
