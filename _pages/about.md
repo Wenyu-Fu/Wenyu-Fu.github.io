@@ -10,10 +10,10 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 3em;">
   <h1 style="color: #2c3e50; font-size: 2.5em; margin-bottom: 0.5em; font-weight: 400;">Wenyu Fu</h1>
   <p style="font-size: 1.2em; color: #34495e; margin-bottom: 1.5em;">
-    ZJU Graduate • Statistics • Bioinformatics • Biomedical Informatics
+    ZJU Graduate • Animal Science • Bioinformatics • Biomedical Informatics
   </p>
   <p style="font-size: 1.1em; color: #7f8c8d; max-width: 600px; margin: 0 auto;">
-    Graduated from Zhejiang University, and will soon begin pursuing a Master's in Biomedical Informatics at the National University of Singapore
+    Graduated from Zhejiang University College of Animal Science, and will soon begin pursuing a Master's in Biomedical Informatics at the National University of Singapore
   </p>
 </div>
 
