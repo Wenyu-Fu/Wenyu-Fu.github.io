@@ -10,10 +10,10 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 3em;">
   <h1 style="color: #2c3e50; font-size: 2.5em; margin-bottom: 0.5em; font-weight: 400;">Wenyu Fu</h1>
   <p style="font-size: 1.2em; color: #34495e; margin-bottom: 1.5em;">
-    Undergraduate Student • Statistics • Bioinformatics • Animal Science
+    ZJU Graduate • Statistics • Bioinformatics • Biomedical Informatics
   </p>
   <p style="font-size: 1.1em; color: #7f8c8d; max-width: 600px; margin: 0 auto;">
-    Third-year undergraduate at Zhejiang University, applying statistical methods and bioinformatics to biological research
+    Graduated from Zhejiang University, and will soon begin pursuing a Master's in Biomedical Informatics at the National University of Singapore
   </p>
 </div>
 
@@ -41,6 +41,13 @@ redirect_from:
   </div>
   
   <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
+    <h3 style="color: #2c3e50; margin-top: 0;">February 2025</h3>
+    <h4 style="color: #34495e; margin: 0.5em 0;"><a href="https://doi.org/10.3389/fimmu.2025.1530214" target="_blank" style="color: #34495e; text-decoration: none;">Pig Jejunal Single-Cell RNA Landscapes Revealing Breed-Specific Immunology Differentiation at Various Domestication Stages</a></h4>
+    <p style="color: #7f8c8d; line-height: 1.6; margin-bottom: 0.5em;">Published in <em>Frontiers in Immunology</em>, 28 February 2025</p>
+    <p style="color: #7f8c8d; line-height: 1.6;">Our findings provide valuable single-cell insights into the cellular heterogeneity and immune function evolution in the jejunum during pig at various domestication stages.</p>
+  </div>
+
+  <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
     <h3 style="color: #2c3e50; margin-top: 0;">July 2025</h3>
     <h4 style="color: #34495e; margin: 0.5em 0;">International Study Program</h4>
     <p style="color: #7f8c8d; line-height: 1.6;">Completed "Data Science with Python and Tableau" at the 2025 NUS Summer Program, National University of Singapore, achieving an A level grade.</p>
@@ -48,8 +55,8 @@ redirect_from:
   
   <div style="border-left: 3px solid #3498db; padding-left: 2em; margin: 2em 0;">
     <h3 style="color: #2c3e50; margin-top: 0;">Present</h3>
-    <h4 style="color: #34495e; margin: 0.5em 0;">Active Research</h4>
-    <p style="color: #7f8c8d; line-height: 1.6;">Developing machine learning methods to correlate pig DNA sequences with RNA expression patterns, bridging genomics and transcriptomics through computational approaches.</p>
+    <h4 style="color: #34495e; margin: 0.5em 0;">NUS Capstone Project</h4>
+    <p style="color: #7f8c8d; line-height: 1.6;">Participating in the National University of Singapore Capstone project, investigating the application of graph models in predicting cancer-related genes.</p>
   </div>
 </div>
 
